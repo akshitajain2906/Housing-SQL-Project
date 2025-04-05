@@ -1,4 +1,4 @@
-# 🏠 Nashville Housing SQL Project – Data Cleaning & Preparation
+# Nashville Housing SQL Project – Data Cleaning & Preparation
 
 This project focuses on cleaning and transforming raw housing sales data using SQL to make it analysis-ready. The dataset contains property records from Nashville, including sale dates, addresses, prices, and ownership details.
 
